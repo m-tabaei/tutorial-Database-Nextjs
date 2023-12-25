@@ -1,0 +1,83 @@
+/* Home.module.css */
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.heading1 {
+  color: #333;
+}
+
+.heading2 {
+  color: #555;
+}
+
+.inputContainer {
+  margin-bottom: 20px;
+}
+
+.inputField {
+  padding: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.button {
+  padding: 8px 16px;
+  font-weight: bolder;
+
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.buttonDelete {
+  padding: 8px 16px;
+  font-weight: bolder;
+
+  background-color: red;
+  color: #2b2b2b;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+  border-radius: 10px;
+
+}
+.buttonEdit {
+  padding: 8px 16px;
+  font-weight: bolder;
+  background-color: rgb(187, 255, 0);
+  color: #2b2b2b;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+  border-radius: 10px;
+
+
+}
+.buttonLog {
+  padding: 8px 16px;
+  font-weight: bolder;
+  background-color: rgb(0, 255, 204);
+  color: #2b2b2b;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+  border-radius: 10px;
+
+}
+
+.buttonGroup {
+  margin-top: 10px;
+}
+
+.userList {
+  list-style: none;
+  padding: 0;
+}
+
+.userItem {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
